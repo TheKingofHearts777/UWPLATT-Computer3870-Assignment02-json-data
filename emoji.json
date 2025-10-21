@@ -1,0 +1,177 @@
+[
+  {
+    "id": "1F600",
+    "name": "Grinning Face",
+    "category": "smileys-emotion",
+    "unicode": "U+1F600",
+    "description": "A face with a big open (grinning) mouth showing teeth, expressing general happiness and positivity."
+  },
+  {
+    "id": "1F601",
+    "name": "Grinning Face with Smiling Eyes",
+    "category": "smileys-emotion",
+    "unicode": "U+1F601",
+    "description": "Smiling face with tightly closed eyes, used to show intense happiness or delight."
+  },
+  {
+    "id": "1F602",
+    "name": "Face with Tears of Joy",
+    "category": "smileys-emotion",
+    "unicode": "U+1F602",
+    "description": "Face laughing so hard that tears come out; used for hilarious reactions."
+  },
+  {
+    "id": "1F923",
+    "name": "Rolling on the Floor Laughing",
+    "category": "smileys-emotion",
+    "unicode": "U+1F923",
+    "description": "Extreme laughter, used for something very funny."
+  },
+  {
+    "id": "1F60E",
+    "name": "Smiling Face with Sunglasses",
+    "category": "smileys-emotion",
+    "unicode": "U+1F60E",
+    "description": "Cool, confident, or relaxed mood; often used to show swagger."
+  },
+  {
+    "id": "1F609",
+    "name": "Winking Face",
+    "category": "smileys-emotion",
+    "unicode": "U+1F609",
+    "description": "Wink used to convey humor, flirtation, or a light-hearted tone."
+  },
+  {
+    "id": "1F914",
+    "name": "Thinking Face",
+    "category": "smileys-emotion",
+    "unicode": "U+1F914",
+    "description": "Indicates thinking, puzzlement, or skepticism."
+  },
+  {
+    "id": "1F60C",
+    "name": "Relieved Face",
+    "category": "smileys-emotion",
+    "unicode": "U+1F60C",
+    "description": "Relief, calm, or contentment; a relaxed smile."
+  },
+  {
+    "id": "1F634",
+    "name": "Sleeping Face",
+    "category": "smileys-emotion",
+    "unicode": "U+1F634",
+    "description": "Sleeping, tired, or bored; eyes closed with mouth slightly open."
+  },
+  {
+    "id": "1F648",
+    "name": "See-No-Evil Monkey",
+    "category": "animals-nature",
+    "unicode": "U+1F648",
+    "description": "Monkey covering its eyes; used to signify 'I didn't see that' or embarrassment."
+  },
+  {
+    "id": "1F649",
+    "name": "Hear-No-Evil Monkey",
+    "category": "animals-nature",
+    "unicode": "U+1F649",
+    "description": "Monkey covering its ears; used to mean 'I didn't hear that' or playful avoidance."
+  },
+  {
+    "id": "1F64A",
+    "name": "Speak-No-Evil Monkey",
+    "category": "animals-nature",
+    "unicode": "U+1F64A",
+    "description": "Monkey covering its mouth; indicates 'I won't say anything' or secrecy."
+  },
+  {
+    "id": "1F44D",
+    "name": "Thumbs Up",
+    "category": "people-body",
+    "unicode": "U+1F44D",
+    "description": "Approval, agreement, or positive acknowledgment."
+  },
+  {
+    "id": "2764",
+    "name": "Red Heart",
+    "category": "symbols",
+    "unicode": "U+2764 U+FE0F",
+    "description": "Classic red heart, representing love, affection, or strong positive feelings."
+  },
+  {
+    "id": "2728",
+    "name": "Sparkles",
+    "category": "symbols",
+    "unicode": "U+2728",
+    "description": "Sparkles or shiny effect; used to emphasize, celebrate, or show something magical."
+  },
+  {
+    "id": "1F525",
+    "name": "Fire",
+    "category": "objects",
+    "unicode": "U+1F525",
+    "description": "Flame; used to indicate something is hot, trending, or intense."
+  },
+  {
+    "id": "1F4A9",
+    "name": "Pile of Poo",
+    "category": "objects",
+    "unicode": "U+1F4A9",
+    "description": "Playful depiction of poop; often used jokingly or to indicate something unpleasant."
+  },
+  {
+    "id": "1F389",
+    "name": "Party Popper",
+    "category": "activities",
+    "unicode": "U+1F389",
+    "description": "Celebration, party, or congratulations; often used for festive occasions."
+  },
+  {
+    "id": "1F44F",
+    "name": "Clapping Hands",
+    "category": "people-body",
+    "unicode": "U+1F44F",
+    "description": "Applause, congratulations, or appreciation."
+  },
+  {
+    "id": "1F64F",
+    "name": "Folded Hands",
+    "category": "people-body",
+    "unicode": "U+1F64F",
+    "description": "Prayer, thanks, or request; also commonly used to express gratitude."
+  },
+  {
+    "id": "270C",
+    "name": "Victory Hand",
+    "category": "people-body",
+    "unicode": "U+270C U+FE0F",
+    "description": "Victory or peace hand gesture; often used to signify 'V' for victory or peace."
+  },
+  {
+    "id": "1F44C",
+    "name": "OK Hand",
+    "category": "people-body",
+    "unicode": "U+1F44C",
+    "description": "OK gesture; indicates approval or that everything is fine."
+  },
+  {
+    "id": "1F637",
+    "name": "Face with Medical Mask",
+    "category": "people-body",
+    "unicode": "U+1F637",
+    "description": "Wearing a medical mask; used for illness, health concerns, or protection."
+  },
+  {
+    "id": "1F4BB",
+    "name": "Laptop Computer",
+    "category": "objects",
+    "unicode": "U+1F4BB",
+    "description": "Laptop computer; used to represent computing, work, or coding."
+  },
+  {
+    "id": "1F30D",
+    "name": "Globe Showing Europe-Africa",
+    "category": "travel-places",
+    "unicode": "U+1F30D",
+    "description": "Earth globe showing Europe-Africa; represents global, world, or international contexts."
+  }
+]
